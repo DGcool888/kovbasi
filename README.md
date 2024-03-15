@@ -1,1 +1,20 @@
 # kovbasi
+<html> 
+    <link rel="stylesheet"
+    href="style.css">
+    <h1><b>Коабса молочна</b></h1>
+    <header>
+        <a href=""><img class="call" src="https://c1.klipartz.com/pngpicture/855/863/sticker-png-desktop-icon-telephone-telephone-number-business-telephone-system-telephone-call-symbol-circle-logo.png" width="30" height="30"></a>
+   <img class="molochka" src="https://images.prom.ua/2354493538_naturalnaya-doktorskaya-kolbasa.jpg" width="300">
+       <img  src="https://i.pinimg.com/564x/58/91/5d/58915db3f5da19056d2f0d1260cc82f1.jpg" width="50" height="50">
+    <a href="">ковбаса докторська</a>
+
+    <img class="molochka" src="https://yuvileinyi.com.ua/wp-content/uploads/2021/03/%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-400-%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80.png" width="300">
+    <a href="">молочна свинна</a>
+     <img class="molochka" src="https://bmk.net.ua/wp-content/uploads/2023/03/%D0%9A%D0%BE%D0%B2%D0%B1%D0%B0%D1%81%D0%B0-%D0%B2%D0%B0%D1%80%D0%B5%D0%BD%D0%B0-%D0%9C%D0%9E%D0%9B%D0%9E%D0%A7%D0%9D%D0%90.jpg" width="300">
+    <a href="">молочнa cocucKa</a>
+    <h1><b>кров'янки</b></h1>
+     <img class="molochka" src="https://www.ryboedy.com.ua/wp-content/uploads/2021/04/%D0%BA%D1%80%D0%BE%D0%B2%D1%8F%D0%BD%D0%BA%D0%B0-min.png" width="300">
+    <a href="">кровянка</a>
+    </header>
+</html>
